@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Development**
 
-- 👨‍💻 All of my projects are available at [Gowsigan's Portfolio](gowsigan.mechuter.com)
+- 👨‍💻 All of my projects are available at [Gowsigan's Portfolio](https://gowsigan.mechuter.com)
 
 - 💬 Ask me about **Flutter**
 
